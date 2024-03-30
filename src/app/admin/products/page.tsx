@@ -4,7 +4,7 @@ import PageHeader from '../_components/PageHeader'
 const AdminProductPage = () => {
   return (
    <>
-    <PageHeader>Products</PageHeader>
+    <PageHeader>PageHeader</PageHeader>
    </>
   )
 }
